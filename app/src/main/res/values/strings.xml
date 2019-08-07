@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ed Book</string>
+
+    <string name="search_book_activity_title">책 검색</string>
+    <string name="book_cover">책표지</string>
+    <string name="search_hint">책 검색어를 입력하세요</string>
+
+    <string name="default_price">0원</string>
+    <string name="search">검색</string>
+    <string name="delete">삭제</string>
+    <string name="default_num">0001</string>
+    <string name="tot_count_label">검색 개수 : </string>
+    <string name="pageable_count_label">Pageable Count : </string>
+    <string name="is_end_label">"Is End : false"</string>
+
+    <string name="welcome">안녕하세요</string>
+
+    <string name="my_basket_title">내 장바구니</string>
+    <string name="my_basket_count_label">0건</string>
+
+    <string name="edcho_author">제작자 조복래입니다(edcho12@gmail.com)</string>
+    <string name="book_icon">책 아이콘</string>
+
+    <string name="already_existed_in_the_basket">이미 장바구니에 담겨 있습니다!</string>
+    <string name="search_book_keyword_empty">검색할 책 제목의 키워드를 입력하세요!</string>
+
+    <string name="price_label">도서정가 : </string>
+    <string name="sale_price_label">도서 판매가 : </string>
+
+    <string name="tab_main_home">장바구니</string>
+    <string name="tab_main_detail">세부사항</string>
+
+    <string name="tot_basket_count_label">장바구니 아이템 개수 : </string>
+
+</resources>

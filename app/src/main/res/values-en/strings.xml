@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ed Book</string>
+
+    <string name="search_book_activity_title">Search book</string>
+    <string name="book_cover">Book cover</string>
+    <string name="search_hint">Search keyword</string>
+    <string name="default_price">0원</string>
+    <string name="search">Search</string>
+    <string name="delete">delete</string>
+    <string name="default_num">0001</string>
+    <string name="tot_count_label">Tot count : </string>
+    <string name="pageable_count_label">Pageable Count : </string>
+    <string name="is_end_label">"Is End : false"</string>
+
+    <string name="welcome">Hello</string>
+
+    <string name="my_basket_title">My shopping basket</string>
+    <string name="my_basket_count_label">0건</string>
+
+    <string name="edcho_author">My name is edcho(edcho12@gmail.com)</string>
+    <string name="book_icon">book icon</string>
+
+    <string name="already_existed_in_the_basket">Already existed int the my basket!</string>
+    <string name="search_book_keyword_empty">Please input searching keyword!</string>
+
+    <string name="price_label">price : </string>
+    <string name="sale_price_label">sale price : </string>
+
+
+    <string name="tab_main_home">My basket</string>
+    <string name="tab_main_detail">Detail</string>
+
+    <string name="tot_basket_count_label">Total items : </string>
+</resources>
