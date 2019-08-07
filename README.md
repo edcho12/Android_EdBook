@@ -1,5 +1,5 @@
 # Ed Book 안드로이드 샘플앱
-##(with Aandroid Architecture Components - Java Only)
+### (with Aandroid Architecture Components - Java Only)
 ***
 
 안드로이드 아키텍처 컴포넌트의 다양한 라이브리와 실 서비스 기준의 REST API를 이용해 부드럽고 무중단의 페이징을 다루는 샘플 앱입니다. **자바 기준**으로만 작성 된 소스입니다.
@@ -54,7 +54,7 @@
 <br><br>
 # 데모
 
-<img src="./edbook_demo.gif" width="320">
+<img src="./EdBook_demo.gif" width="320">
 
 # 안드로이드 페이징 라이브러리 학습의 주요 정보
 
